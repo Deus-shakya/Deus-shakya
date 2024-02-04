@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deus</h1>
+<h1 align="center">Hi 👋, I'm D e u s</h1>
 <h3 align="center">Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deus-shakya&label=Profile%20views&color=0e75b6&style=flat" alt="deus-shakya" /> </p>
