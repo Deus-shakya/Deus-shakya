@@ -5,6 +5,7 @@
   <img src="https://profile-counter.glitch.me/deus-shakya/count.svg?"  />
 </div>
  - Currently learning **MERNstack**
+ 
  - Hobby **Music and Photography**
 
 <h3 align="left">Languages and Tools:</h3>
