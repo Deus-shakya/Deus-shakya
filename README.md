@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/deus-shakya/count.svg?"  />
 </div>
 
-<h7 align="center">Currently learning MERNstack</h7> br
+<h7 align="center">Currently learning MERNstack</h7> <br>
 <h7 align="center">Hobby Music and Photography</h7>
 
 
