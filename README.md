@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/deus-shakya/count.svg?"  />
 </div>
- - Currently learning **MERNstack**
+- Currently learning **MERNstack**
  
 - Hobby **Music and Photography**
 
