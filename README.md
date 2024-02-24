@@ -1,9 +1,5 @@
 <h1 align="center">D e u s</h1>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/deus-shakya/count.svg?" />
-</div>
-
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
