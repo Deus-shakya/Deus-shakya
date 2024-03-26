@@ -1,6 +1,4 @@
 <h1 align="center">D e u s</h1>
-    
-    <img
       
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
