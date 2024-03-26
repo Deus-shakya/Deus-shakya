@@ -1,7 +1,4 @@
 <h1 align="center">D e u s</h1>
-
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
